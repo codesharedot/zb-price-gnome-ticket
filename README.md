@@ -1,5 +1,8 @@
-# zb price gnome ticket 
+# zb gnome price ticker
 
-Gnome 3 desktop ticker for zb price with Python and argos. Rename to zb.1r.60s.py and put in ~/.config/argos
+Get zb price in Python [https://pythonbasics.org](https://pythonbasics.org).
+See [https://codesharedot.github.io/zb-price-gnome-ticket/](https://codesharedot.github.io/zb-price-gnome-ticket/)
 
-https://pythonbasics.org
+zb price ticker for Gnome desktop. Gets the price with Python and argos.
+
+Rename to zb.1r60s.py and put in ~/.config/argos
